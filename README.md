@@ -12,4 +12,4 @@ Arduino-based control system
 Custom-written code for movement and control
 
 # Status
-In progress — SG90 prototype, MG996R design starting soon
+In progress: SG90 prototype, MG996R design starting soon
