@@ -16,3 +16,4 @@ In progress: SG90 prototype, MG996R design starting soon
 
 # How to view
 You can view by opening up the specific folders and opening the files, and you can also open the Onshape link right here: https://cad.onshape.com/documents/41cd299b55955e435b11d04e/w/83cc5fc5af99924a288faa73/e/b4b580f90ae773bfe33d1d5a (If the link doesn't work, reload the page)
+BOM CSV contains every part that is needed under the grant, with the item name, description, amount, price, and total.
